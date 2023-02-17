@@ -1,8 +1,8 @@
 {
-  "name": "reactbmw",
+  "name": "reactbmwpinkmode",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Anas7823.github.io/ReactBMW",
+  "homepage": "https://Anas7823.github.io/ReactBMWPinkMode",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
