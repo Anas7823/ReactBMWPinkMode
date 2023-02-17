@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ReactBMW/static/css/main.4682b051.css",
-    "main.js": "/ReactBMW/static/js/main.5d71b233.js",
-    "static/media/m3.jpg": "/ReactBMW/static/media/m3.c1e4a9084cbb60b7c86a.jpg",
-    "static/media/bmw-m5-3.jpg": "/ReactBMW/static/media/bmw-m5-3.acbf643d1f5f6eb24ed9.jpg",
-    "static/media/BMW-M3-E92-2.jpeg": "/ReactBMW/static/media/BMW-M3-E92-2.94ebd96ad18cea2a82b5.jpeg",
-    "static/media/BMW-M3-E92-3.jpg": "/ReactBMW/static/media/BMW-M3-E92-3.3033a6953858e7f8e40e.jpg",
-    "static/media/bmw-m5-1.jpg": "/ReactBMW/static/media/bmw-m5-1.92ec3cac633b2d6e0079.jpg",
-    "static/media/BMW-M3-E92-1.jpeg": "/ReactBMW/static/media/BMW-M3-E92-1.c830b4926894e54b8a5f.jpeg",
-    "static/media/BMW-Logo.png": "/ReactBMW/static/media/BMW-Logo.8ce7a38bed8096f48431.png",
-    "static/media/m5.jpg": "/ReactBMW/static/media/m5.04c1246a69af5149cef0.jpg",
-    "static/media/M3-Touring-scaled.jpeg": "/ReactBMW/static/media/M3-Touring-scaled.8091c8052c31d36db187.jpeg",
-    "static/media/bmw-m5-4.jpg": "/ReactBMW/static/media/bmw-m5-4.c601ef1492fc4289235b.jpg",
-    "static/media/bmw-m5-2.jpg": "/ReactBMW/static/media/bmw-m5-2.b180f70b25036a558627.jpg",
-    "static/media/prototype.png": "/ReactBMW/static/media/prototype.3236c092c7b0c1eadb0e.png",
-    "static/media/no-image.png": "/ReactBMW/static/media/no-image.57146c3a157fd6e7ef28.png",
-    "static/media/custom.png": "/ReactBMW/static/media/custom.eecc758b04d0fd5a941f.png",
-    "static/media/TEL.png": "/ReactBMW/static/media/TEL.378eb7871b019fbfd99b.png",
-    "index.html": "/ReactBMW/index.html",
-    "main.4682b051.css.map": "/ReactBMW/static/css/main.4682b051.css.map",
-    "main.5d71b233.js.map": "/ReactBMW/static/js/main.5d71b233.js.map"
+    "main.css": "/ReactBMWPinkMode/static/css/main.4682b051.css",
+    "main.js": "/ReactBMWPinkMode/static/js/main.a314a8e2.js",
+    "static/media/m3.jpg": "/ReactBMWPinkMode/static/media/m3.c1e4a9084cbb60b7c86a.jpg",
+    "static/media/bmw-m5-3.jpg": "/ReactBMWPinkMode/static/media/bmw-m5-3.acbf643d1f5f6eb24ed9.jpg",
+    "static/media/BMW-M3-E92-2.jpeg": "/ReactBMWPinkMode/static/media/BMW-M3-E92-2.94ebd96ad18cea2a82b5.jpeg",
+    "static/media/BMW-M3-E92-3.jpg": "/ReactBMWPinkMode/static/media/BMW-M3-E92-3.3033a6953858e7f8e40e.jpg",
+    "static/media/bmw-m5-1.jpg": "/ReactBMWPinkMode/static/media/bmw-m5-1.92ec3cac633b2d6e0079.jpg",
+    "static/media/BMW-M3-E92-1.jpeg": "/ReactBMWPinkMode/static/media/BMW-M3-E92-1.c830b4926894e54b8a5f.jpeg",
+    "static/media/BMW-Logo.png": "/ReactBMWPinkMode/static/media/BMW-Logo.8ce7a38bed8096f48431.png",
+    "static/media/m5.jpg": "/ReactBMWPinkMode/static/media/m5.04c1246a69af5149cef0.jpg",
+    "static/media/M3-Touring-scaled.jpeg": "/ReactBMWPinkMode/static/media/M3-Touring-scaled.8091c8052c31d36db187.jpeg",
+    "static/media/bmw-m5-4.jpg": "/ReactBMWPinkMode/static/media/bmw-m5-4.c601ef1492fc4289235b.jpg",
+    "static/media/bmw-m5-2.jpg": "/ReactBMWPinkMode/static/media/bmw-m5-2.b180f70b25036a558627.jpg",
+    "static/media/prototype.png": "/ReactBMWPinkMode/static/media/prototype.3236c092c7b0c1eadb0e.png",
+    "static/media/no-image.png": "/ReactBMWPinkMode/static/media/no-image.57146c3a157fd6e7ef28.png",
+    "static/media/custom.png": "/ReactBMWPinkMode/static/media/custom.eecc758b04d0fd5a941f.png",
+    "static/media/TEL.png": "/ReactBMWPinkMode/static/media/TEL.378eb7871b019fbfd99b.png",
+    "index.html": "/ReactBMWPinkMode/index.html",
+    "main.4682b051.css.map": "/ReactBMWPinkMode/static/css/main.4682b051.css.map",
+    "main.a314a8e2.js.map": "/ReactBMWPinkMode/static/js/main.a314a8e2.js.map"
   },
   "entrypoints": [
     "static/css/main.4682b051.css",
-    "static/js/main.5d71b233.js"
+    "static/js/main.a314a8e2.js"
   ]
 }
